@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-business-casual/assets/img/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.footer_top h3{
+    color: goldenrod;
+}
+.footer_top{
+    height: 200px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px
+}
+.footer_top h1{
+    color: white;
+}
+
+.footer_bottom{
+    background-color:  rgba(55, 37, 14, 0.973);
+    height: 20px;
+    text-align: center;
+    align-items: center;
+    padding: 40px;
+    justify-content: center;
+}
+.footer_bottom a{
+    padding: 40px;
+    text-decoration: none;
+    color: white;
+}
+.footer_bottom a :hover{
+    color: rgb(109, 106, 106);
+}
+.second_main{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 178, 78, 0.903);
+    height: 430px;
+    padding-top: 50px;
+}
+.border{
+    width: 800px;
+    height: 320px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #fbe6cb;
+    margin-left: 350px;
+    padding: 30px;
+    border-radius: 10px;
+}
+.main_list{
+    display: flex;
+    padding-left: 150px;
+    font-size: larger;
+    font-weight: 500;
+}
+ul{
+    padding-left: 100px;
+    list-style-type: none;
+}
+.word{
+    background-color: antiquewhite;
+    position: absolute;
+    width: 800px;
+    height: 200px;
+    margin-left: 400px;
+    border-radius: 5px;
+    font-size: larger;
+    padding-left: 30px;
+    padding-right: 30px;
+    top: 180%;
+    padding-top: 30px;
+}
+
+.main img{
+    position: relative;
+    width: 1200px;
+    height: 500px;
+    border-radius: 10px;
+    padding-left: 200px;
+    padding-top: 20px;
+
+}
+.header p{
+    background-color: rgba(55, 37, 14, 0.973);
+    height: 60px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 60px;
+    margin-top: 200px;
+}
